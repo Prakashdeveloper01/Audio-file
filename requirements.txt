@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+vosk
+soundfile
+numpy
+PySoundFile
+fpdf
+aiofiles
+pydub
